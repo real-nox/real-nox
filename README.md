@@ -13,7 +13,6 @@ I'm 17 years old and passionate about coding, learning, and exploring the univer
 <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"/>
 
 
-| [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=real-nox)](https://github.com/anuraghazra/github-readme-stats) |
-| ------------- | ------------- |
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=real-nox)](https://github.com/anuraghazra/github-readme-stats)
 
 - Thank you for reading my profile
