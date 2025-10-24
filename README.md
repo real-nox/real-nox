@@ -11,7 +11,4 @@ I'm 17 years old and passionate about coding, learning, and exploring the univer
 <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
 <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/><br />
 <br />
-
-(https://github-readme-stats.vercel.app/api?username=real-nox)](https://github.com/anuraghazra/github-readme-stats)<br />
-<br />
 - Thank you for reading my profile
