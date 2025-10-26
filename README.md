@@ -1,6 +1,6 @@
 ## Hello World 👋
 
-I'm 17 years old and passionate about coding, learning, and exploring the universe. I focus on what I truly enjoy and strive to grow with every project I take on.
+I'm 18 years old and passionate about coding, learning, and exploring the universe. I focus on what I truly enjoy and strive to grow with every project I take on.
 
 ---
 
