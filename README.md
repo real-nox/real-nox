@@ -17,4 +17,4 @@ I'm 18 years old and passionate about coding, learning, and exploring the univer
 <br />
 <br />
 
-<img alt="Top Used Languages" align="left" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=real-nox&layout=compact"/>
+<img alt="Top Used Languages" align="left" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=real-nox&layout=compact&show_icons=true&theme=radical"/>
