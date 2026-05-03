@@ -4,7 +4,7 @@
   <p>Software Engineer Student at <a href=https://est.uit.ac.ma/>EST Kénitra</a>, Morocco.<br>I build full-stack web apps, discord.js bots. I enjoy turning ideas into working products.</p>
   <div>
     <p align="center">
-      <a href=https://rayane-sirri.vercel.app>Portfolio</a> · <a href=https://linkedin.com/in/rayane-sirri-925b25371>LinkedIn</a>
+      <a href=https://real-nox.github.io/Portfolio/>Portfolio</a> · <a href=https://linkedin.com/in/rayane-sirri-925b25371>LinkedIn</a>
     </p>
   </div>
   <h3>🗃️ Projects</h3>
