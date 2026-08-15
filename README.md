@@ -4,10 +4,11 @@
   <p>Software Engineer Student at <a href=https://est.uit.ac.ma/>EST Kénitra</a>, Morocco.<br>I build full-stack apps, discord.js bots. I enjoy turning ideas into working products.</p>
   <div>
     <p align="center">
-      <a href=https://real-nox.github.io/Portfolio/>Portfolio</a> · <a href=https://linkedin.com/in/rayane-sirri-925b25371>LinkedIn</a>
+      <a href=https://real-nox.github.io/Portfolio/>Portfolio</a> · <a href=https://linkedin.com/in/rayane-sirri>LinkedIn</a>
     </p>
   </div>
   <h3>🗃️ Projects</h3>
+  -> <a href=https://github.com/real-nox/Storely>Storely :</a> <span> E-commerce web app</span><br>
   -> <a href=https://github.com/real-nox/ChatAPP>Chatty :</a> <span> Real-time messaging web app</span><br>
   -> <a href=https://github.com/real-nox/Student-Web>Student-Web :</a> <span> Student management system</span><br>
   -> <a href=https://github.com/real-nox/Mini-Media>Mini-Media :</a> <span> Social platform</span><br>
