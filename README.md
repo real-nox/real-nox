@@ -7,7 +7,7 @@
       <a href=https://real-nox.github.io/Portfolio/>Portfolio</a> · <a href=https://linkedin.com/in/rayane-sirri>LinkedIn</a>
     </p>
   </div>
-  <h3>🗃️ Projects</h3>
+  <h3>🗃️ Main Projects</h3>
   -> <a href=https://github.com/real-nox/Storely>Storely :</a> <span> E-commerce web app</span><br>
   -> <a href=https://github.com/real-nox/ChatAPP>Chatty :</a> <span> Real-time messaging web app</span><br>
   -> <a href=https://github.com/real-nox/Student-Web>Student-Web :</a> <span> Student management system</span><br>
